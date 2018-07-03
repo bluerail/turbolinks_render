@@ -8,7 +8,7 @@ Turbolinks supports [`redirect_to`](https://github.com/turbolinks/turbolinks/blo
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'turboilnks_render'
+gem 'turbolinks_render'
 ```
 
 And then execute:
